@@ -27,7 +27,7 @@ a {
   box-sizing: border-box;
 }
 
-h1 {
+.heading {
   font-weight: bold;
   font-size: 4rem;
   text-align: center;
