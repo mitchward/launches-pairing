@@ -1,0 +1,16 @@
+.dataset {
+  display: flex;
+  margin-bottom: 0.4rem;
+  align-items: center;
+}
+
+.title {
+  flex-basis: 35%;
+  padding: 0.2rem;
+  color: #7c97ab;
+}
+
+.content {
+  flex-basis: 65%;
+  padding: 0.2rem;
+}
